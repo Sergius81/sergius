@@ -9,8 +9,8 @@ name: Build & Deploy Hugo site to Pages
 # be mindful of overuse. Free accounts have a limited amount of
 # compute time per month.
 on:
-   push:
-     branches:
+  push:
+    branches:
        - main
 
 # Allows you to run this workflow manually from the Actions tab
