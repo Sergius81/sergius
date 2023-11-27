@@ -5,7 +5,7 @@
 author:
   name: Sergius
   image: author.png
-  greeting: "Your new Qubt site :tada:"
+  greeting: "Hey Leute"
   icon: ":wave:"
 
 ############################
@@ -13,15 +13,15 @@ author:
 ############################
 
 links:
-  - github: https://github.com/Sergius81/sergius
-  - link: https://github.com/Sergius81/sergius#readme
-  - website: http://sergius.xyz
+  - github: https://github.com/Sergius81
+  - link: http://sergius.xyz
+  # - website: http://sergius.xyz
   # - x-twitter:
   # - mastodon:
   # - linkedin:
-  # - instagram:
+  - instagram: https://instagram.com/sergius490
   # - reddit:
-  # - telegram:
+  - telegram: https://t.me/IT_Systemhaus
   # - whatsapp:
   # - signal:
   # - codepen:
@@ -32,7 +32,7 @@ links:
   # - slack:
   # - stack-overflow:
   # - twitch:
-  # - patreon:
+  - patreon: https://patreon.com/user?u=67742872
   # - soundcloud:
   # - dribbble:
   # - stack-exchange:
@@ -57,7 +57,7 @@ links:
   # - apple:
   # - amazon:
   # - google:
-  # - paypal:
+  - paypal: https://www.paypal.me/SergiusMuschalle
   # - windows:
 
 ###############################
