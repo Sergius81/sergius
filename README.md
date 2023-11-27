@@ -1,5 +1,10 @@
 # sergius
 
+## Meine Konfiguration folgt hier:
+- Desktopn Link hinzugefügt "sergius.xyz"
+
+
+## Originale Installationsanweisung der Bisic-Repo
 Please follow the instructions below to finish the setup of your new Qubt site.
 
 ## Installation
@@ -61,7 +66,7 @@ author:
 links:
   - github: github: https://github.com/Sergius81/sergius
   - link: https://github.com/Sergius81/sergius#readme
- 
+
 
 ###############################
 ## OpenGraph & Twitter Cards
@@ -78,7 +83,7 @@ Links are defined by the name (i.e. "github" or "facebook"). The names must matc
 ### Supported Social Icons
 | **Supported Icons** | **Supported Icons** | **Supported Icons** | **Supported Icons** |
 | --- | --- | --- | --- |
-| amazon | apple | bandcamp | bitbucket | 
+| amazon | apple | bandcamp | bitbucket |
 | bluesky | check-mark | codepen | dev |
 | discord | dribbble | email | etsy |
 | facebook | flickr | foursquare | github |
