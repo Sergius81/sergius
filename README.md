@@ -39,8 +39,8 @@ main:
 - name: Home
   url: /
   weight: 10
-- name: Blog
-  url: /blog/
+- name: Wiki
+  url: https://wiki-sergius2-0138d818eaf5d398894ae69b386c731c8ab22c914753b158c.gitlab.io/
   weight: 20
 - name: About
   url: /about/
